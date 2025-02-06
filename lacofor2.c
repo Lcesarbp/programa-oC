@@ -5,7 +5,7 @@ int main(){
     int numero = 0;
     int resultado = 0;
 
-    printf("Digita um número: \n");
+    printf("Digita um número: ");
     scanf("%d", &numero);
     
     for(int i = 1; i<=10; i++){
